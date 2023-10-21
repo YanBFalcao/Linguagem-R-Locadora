@@ -1,4 +1,4 @@
-#Linguagem R - Exercício "Locadora"
+# Linguagem R - Exercício "Locadora"
 
 Bem vindo ao meu repositório! Este, é um repositório em que você poderá encontrar um exercício básico realizado no dia 15/10/2023 com intuito de estudar o uso da linguagem de programação R para análise de dados de um Data Frame criado direto no ambiente de desenvolvimento.
 
